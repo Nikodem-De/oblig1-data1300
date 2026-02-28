@@ -1,7 +1,7 @@
 \# Hello Health App
 
 \## Description: 
-To jest obligatoryjne zadanie polegające na poprawnej konfiguracji środowiska programistycznego. Aplikacja weryfikuje ustawienia Pythona, strukturę repozytorium oraz workflow systemu Git. This is obligatory assignment that involves properly configuring the development environment. The application verifies Python settings, the repository structure and the GIT workflow. 
+This is obligatory assignment that involves properly configuring the development environment. The application verifies Python settings, the repository structure and the GIT workflow. 
 
 \## Installation instructions:
 
