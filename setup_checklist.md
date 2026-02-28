@@ -18,5 +18,6 @@ Output: git version 3.5.5
 
 `git remote -v`
 origin https://github.com/Nikodem-De/oblig1-data1300 (fetch)
+
 origin https://github.com/Nikodem-De/oblig1-data1300 (push)
 
